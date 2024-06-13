@@ -1,0 +1,5 @@
+vi test1 # opens a file in vi
+cat test1 # displays a file in vi
+
+set nu # sets line numbers
+
